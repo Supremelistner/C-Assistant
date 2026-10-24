@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+joblib
+pydantic
+python-dotenv
+langchain-core
+langchain-openai
+langgraph
+streamlit
+ipykernel
+nbconvert

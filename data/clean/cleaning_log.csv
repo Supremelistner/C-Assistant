@@ -1,0 +1,8 @@
+table,issue,rows_affected,action,reason
+quiz_attempts,score = 999 (outside 0-100),3,dropped rows,Invalid placeholder value; 0.1% of rows; no basis to impute
+quiz_attempts,duplicate rows (identical except attempt_id),18,"dropped repeats, kept first",Ingest error; would inflate attempt counts
+quiz_attempts,missing time_spent_min,95,filled with per-lesson median + time_missing flag,Attempt is otherwise valid; dropping would understate engagement
+quiz_attempts,student with zero attempts (S065),1,kept; features will be 0,"Zero engagement is a real signal, not missing data"
+students,missing age_group,21,filled with 'unknown' category,Missingness correlates with dropout; keep it visible to the model
+students,missing device,16,filled with 'unknown' category,Missingness correlates with dropout; keep it visible to the model
+students,refund_requested is target leakage,500,"kept in file, EXCLUDED from features",Refund happens after quitting; not known at prediction time

@@ -1,0 +1,58 @@
+[
+  {
+    "student_id": "S035",
+    "dropout_risk": 0.977,
+    "model": "qwen/qwen3.8-27b",
+    "result": null
+  },
+  {
+    "student_id": "S243",
+    "dropout_risk": 0.993,
+    "model": "qwen/qwen3.8-27b",
+    "result": {
+      "explanation_id": "E0508",
+      "lesson_id": "L1",
+      "verdict": "partial",
+      "got_right": [
+        "Plants use light energy (captured by chlorophyll) to make food.",
+        "The outputs are glucose and oxygen."
+      ],
+      "missed": [
+        "The inputs are carbon dioxide and water.",
+        "It happens mainly in the leaves (in chloroplasts)."
+      ],
+      "evidence": [
+        {
+          "key_point": "Plants use light energy (captured by chlorophyll) to make food.",
+          "quote": "Plants use sunlight to make food"
+        },
+        {
+          "key_point": "The outputs are glucose and oxygen.",
+          "quote": "they give out oxygen"
+        }
+      ],
+      "hint": "Besides sunlight, what two other things does a plant need to take in to make its food?",
+      "feedback": "You correctly identified that plants use sunlight to make food and release oxygen. To get a full understanding, you should also mention the specific inputs (carbon dioxide and water) and where the process happens (in the leaves).",
+      "misconception": null,
+      "instruction_in_text": false
+    }
+  },
+  {
+    "student_id": "S112",
+    "dropout_risk": 0.975,
+    "model": "qwen/qwen3.8-27b",
+    "result": null
+  },
+  {
+    "student_id": "S184",
+    "dropout_risk": 0.924,
+    "model": "qwen/qwen3.8-27b",
+    "result": null
+  },
+  {
+    "student_id": "S112",
+    "dropout_risk": 0.975,
+    "model": "qwen/qwen3.8-27b",
+    "result": null
+  }
+]

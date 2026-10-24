@@ -1,0 +1,111 @@
+[
+  {
+    "student_id": "S035",
+    "dropout_risk": 0.977,
+    "model": "qwen/qwen3.8-27b",
+    "result": {
+      "explanation_id": "E0440",
+      "lesson_id": "L2",
+      "verdict": "partial",
+      "got_right": [
+        "This continues unless an unbalanced (external) force acts on it.",
+        "This tendency is called inertia."
+      ],
+      "missed": [
+        "An object at rest stays at rest; a moving object keeps moving at constant speed in a straight line.",
+        "More mass means more inertia."
+      ],
+      "hint": "If no force acts on a moving object, what specific path and speed will it maintain?",
+      "feedback": "You correctly identified that objects resist changes in motion and named this property as inertia. To fully understand the law, you should specify that an object at rest stays at rest and a moving object continues at a constant speed in a straight line unless acted upon by an unbalanced force.",
+      "misconception": null,
+      "instruction_in_text": false
+    }
+  },
+  {
+    "student_id": "S243",
+    "dropout_risk": 0.993,
+    "model": "qwen/qwen3.8-27b",
+    "result": {
+      "explanation_id": "E0508",
+      "lesson_id": "L1",
+      "verdict": "partial",
+      "got_right": [
+        "Plants use light energy (captured by chlorophyll) to make food.",
+        "The outputs are glucose and oxygen."
+      ],
+      "missed": [
+        "The inputs are carbon dioxide and water.",
+        "It happens mainly in the leaves (in chloroplasts)."
+      ],
+      "hint": "Besides sunlight, what two other things does a plant need to take in to make its food?",
+      "feedback": "You correctly identified that plants use sunlight to make food and release oxygen. To get a better score, try mentioning the specific inputs (carbon dioxide and water) or where this process happens in the plant.",
+      "misconception": null,
+      "instruction_in_text": false
+    }
+  },
+  {
+    "student_id": "S112",
+    "dropout_risk": 0.975,
+    "model": "qwen/qwen3.8-27b",
+    "result": {
+      "explanation_id": "E0470",
+      "lesson_id": "L2",
+      "verdict": "partial",
+      "got_right": [
+        "An object at rest stays at rest; a moving object keeps moving at constant speed in a straight line.",
+        "This tendency is called inertia."
+      ],
+      "missed": [
+        "This continues unless an unbalanced (external) force acts on it.",
+        "More mass means more inertia."
+      ],
+      "hint": "What happens to an object that is not moving, and what specific condition must be met for its motion to change?",
+      "feedback": "You correctly identified that inertia is the tendency to keep moving, but you missed that objects at rest also stay at rest and that this continues unless an unbalanced force acts.",
+      "misconception": null,
+      "instruction_in_text": false
+    }
+  },
+  {
+    "student_id": "S184",
+    "dropout_risk": 0.924,
+    "model": "qwen/qwen3.8-27b",
+    "result": {
+      "explanation_id": "E0507",
+      "lesson_id": "L3",
+      "verdict": "understood",
+      "got_right": [
+        "Higher demand (with the same supply) usually raises the price.",
+        "Higher supply (with the same demand) usually lowers the price.",
+        "The equilibrium price is where quantity supplied equals quantity demanded."
+      ],
+      "missed": [
+        "Price acts as a signal that balances buyers and sellers."
+      ],
+      "hint": "How does a change in price help guide the decisions of buyers and sellers to reach that balance?",
+      "feedback": "You correctly explained how supply and demand shifts affect prices and defined equilibrium well. To fully understand the concept, consider how the price itself acts as a signal that helps balance the market.",
+      "misconception": null,
+      "instruction_in_text": false
+    }
+  },
+  {
+    "student_id": "S112",
+    "dropout_risk": 0.975,
+    "model": "qwen/qwen3.8-27b",
+    "result": {
+      "explanation_id": "E0247",
+      "lesson_id": "L1",
+      "verdict": "wrong",
+      "got_right": [],
+      "missed": [
+        "Plants use light energy (captured by chlorophyll) to make food.",
+        "The inputs are carbon dioxide and water.",
+        "The outputs are glucose and oxygen.",
+        "It happens mainly in the leaves (in chloroplasts)."
+      ],
+      "hint": "What two substances from the air and soil do plants need to build glucose using sunlight?",
+      "feedback": "You are right that sunlight is essential for plants, but it is not their food; it is the energy source they use to make their own food. Can you name the specific ingredients plants combine with light energy to create glucose?",
+      "misconception": "Plants do not eat sunlight directly; they use light energy to convert carbon dioxide and water into glucose.",
+      "instruction_in_text": false
+    }
+  }
+]

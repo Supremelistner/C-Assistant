@@ -1,0 +1,4 @@
+method,accuracy,wrong→passed
+"TF-IDF + LR, leave-one-out (optimistic)",0.8,4
+"TF-IDF + LR, grouped 5-fold (honest)",0.3833,13
+LLM: Qwen3.8-27B rag,0.9833,0

@@ -1,0 +1,501 @@
+student_id,age_group,country,signup_date,device,refund_requested,dropped_out
+S001,35-44,UAE,2026-07-18,mobile,no,no
+S002,18-24,Sri Lanka,2026-07-11,mobile,no,no
+S003,35-44,Sri Lanka,2026-07-27,mobile,no,no
+S004,25-34,India,2026-07-29,mobile,no,no
+S005,18-24,India,2026-07-13,desktop,no,no
+S006,45+,Bangladesh,2026-06-23,mobile,yes,yes
+S007,25-34,India,2026-07-07,tablet,no,no
+S008,35-44,Bangladesh,2026-06-26,mobile,no,no
+S009,18-24,India,2026-07-09,desktop,no,no
+S010,25-34,India,2026-07-20,mobile,no,no
+S011,18-24,India,2026-06-23,desktop,no,no
+S012,45+,Bangladesh,2026-07-01,desktop,no,no
+S013,25-34,India,2026-06-03,mobile,no,no
+S014,35-44,India,2026-07-15,tablet,yes,yes
+S015,18-24,India,2026-06-30,mobile,no,no
+S016,18-24,India,2026-06-29,mobile,no,no
+S017,25-34,India,2026-07-03,desktop,yes,yes
+S018,18-24,UAE,2026-06-14,desktop,yes,yes
+S019,35-44,India,2026-07-07,mobile,yes,yes
+S020,25-34,Bangladesh,2026-07-16,mobile,no,no
+S021,25-34,Sri Lanka,2026-06-22,desktop,no,no
+S022,18-24,India,2026-06-09,desktop,no,no
+S023,45+,India,2026-06-24,tablet,no,no
+S024,35-44,UAE,2026-06-13,unknown,no,no
+S025,35-44,India,2026-06-23,desktop,no,no
+S026,18-24,India,2026-07-09,mobile,no,no
+S027,25-34,Kenya,2026-06-07,tablet,no,no
+S028,18-24,Kenya,2026-07-16,mobile,no,no
+S029,18-24,Bangladesh,2026-06-14,desktop,no,no
+S030,25-34,India,2026-07-25,mobile,no,no
+S031,25-34,UAE,2026-07-15,desktop,no,no
+S032,45+,UAE,2026-06-17,desktop,no,no
+S033,18-24,India,2026-07-05,mobile,no,no
+S034,18-24,UAE,2026-06-07,tablet,no,no
+S035,25-34,India,2026-06-07,mobile,yes,yes
+S036,unknown,India,2026-07-29,desktop,no,no
+S037,18-24,India,2026-07-19,mobile,no,no
+S038,25-34,India,2026-06-10,mobile,no,no
+S039,18-24,India,2026-06-18,mobile,yes,yes
+S040,25-34,Bangladesh,2026-06-13,mobile,no,no
+S041,18-24,Kenya,2026-06-25,mobile,yes,yes
+S042,35-44,India,2026-06-18,desktop,yes,yes
+S043,25-34,Bangladesh,2026-06-21,desktop,yes,no
+S044,unknown,Kenya,2026-07-03,desktop,no,no
+S045,35-44,India,2026-06-12,mobile,no,no
+S046,35-44,India,2026-07-24,mobile,no,no
+S047,18-24,India,2026-07-15,mobile,no,no
+S048,unknown,India,2026-07-17,unknown,yes,yes
+S049,25-34,Bangladesh,2026-06-11,desktop,no,no
+S050,18-24,India,2026-07-14,mobile,yes,yes
+S051,18-24,India,2026-07-22,desktop,yes,yes
+S052,18-24,India,2026-06-11,mobile,no,no
+S053,35-44,India,2026-07-16,mobile,no,no
+S054,25-34,Sri Lanka,2026-06-22,mobile,no,no
+S055,25-34,India,2026-07-19,mobile,no,no
+S056,35-44,India,2026-06-30,desktop,no,no
+S057,25-34,India,2026-07-19,tablet,no,no
+S058,25-34,India,2026-06-09,unknown,no,no
+S059,18-24,India,2026-06-24,mobile,no,no
+S060,18-24,India,2026-06-17,desktop,no,no
+S061,25-34,India,2026-06-16,tablet,no,no
+S062,25-34,India,2026-06-19,desktop,no,no
+S063,25-34,Bangladesh,2026-06-24,mobile,no,yes
+S064,25-34,UAE,2026-06-08,desktop,yes,yes
+S065,25-34,UAE,2026-07-14,mobile,yes,yes
+S066,25-34,UAE,2026-07-04,tablet,no,no
+S067,unknown,Bangladesh,2026-07-21,mobile,no,yes
+S068,18-24,India,2026-07-14,desktop,no,yes
+S069,18-24,India,2026-06-10,mobile,no,no
+S070,18-24,India,2026-06-05,mobile,no,no
+S071,18-24,India,2026-06-26,desktop,no,no
+S072,18-24,Bangladesh,2026-06-30,desktop,no,no
+S073,35-44,India,2026-06-15,mobile,yes,yes
+S074,18-24,Bangladesh,2026-07-18,tablet,yes,yes
+S075,18-24,Sri Lanka,2026-07-06,desktop,no,no
+S076,18-24,India,2026-07-16,mobile,yes,no
+S077,18-24,Sri Lanka,2026-06-07,mobile,no,no
+S078,25-34,India,2026-07-20,mobile,yes,yes
+S079,25-34,Sri Lanka,2026-06-13,desktop,yes,yes
+S080,35-44,India,2026-06-28,unknown,yes,yes
+S081,unknown,India,2026-06-27,unknown,no,no
+S082,18-24,India,2026-07-21,tablet,no,no
+S083,35-44,India,2026-06-17,tablet,yes,yes
+S084,18-24,India,2026-06-15,desktop,no,no
+S085,18-24,Sri Lanka,2026-06-21,tablet,yes,yes
+S086,18-24,UAE,2026-06-23,desktop,no,no
+S087,25-34,India,2026-06-12,desktop,no,no
+S088,25-34,India,2026-06-11,desktop,no,no
+S089,18-24,India,2026-06-15,mobile,yes,yes
+S090,25-34,India,2026-06-29,mobile,no,no
+S091,18-24,Sri Lanka,2026-06-21,mobile,no,no
+S092,25-34,India,2026-06-24,desktop,no,no
+S093,18-24,India,2026-07-14,mobile,yes,yes
+S094,18-24,India,2026-06-15,mobile,yes,yes
+S095,18-24,India,2026-07-26,desktop,no,no
+S096,25-34,India,2026-07-16,mobile,no,no
+S097,18-24,UAE,2026-06-11,mobile,no,no
+S098,18-24,UAE,2026-06-20,desktop,no,no
+S099,18-24,Kenya,2026-06-12,desktop,no,no
+S100,45+,UAE,2026-06-17,mobile,yes,yes
+S101,35-44,India,2026-06-23,mobile,no,no
+S102,25-34,Bangladesh,2026-06-08,mobile,no,no
+S103,18-24,Sri Lanka,2026-06-01,desktop,no,no
+S104,45+,UAE,2026-06-27,desktop,no,no
+S105,unknown,Kenya,2026-07-13,mobile,yes,yes
+S106,25-34,Bangladesh,2026-06-19,desktop,no,no
+S107,18-24,Sri Lanka,2026-07-23,mobile,no,no
+S108,18-24,India,2026-06-23,mobile,no,no
+S109,18-24,UAE,2026-07-25,tablet,no,no
+S110,35-44,India,2026-06-15,mobile,no,no
+S111,25-34,India,2026-07-03,mobile,yes,yes
+S112,18-24,UAE,2026-07-17,mobile,no,yes
+S113,18-24,Kenya,2026-06-04,desktop,no,no
+S114,25-34,Kenya,2026-07-27,tablet,no,no
+S115,18-24,India,2026-06-23,tablet,no,no
+S116,35-44,UAE,2026-07-01,mobile,yes,yes
+S117,25-34,UAE,2026-07-09,mobile,no,no
+S118,25-34,India,2026-07-10,desktop,no,no
+S119,18-24,India,2026-06-02,mobile,yes,yes
+S120,unknown,India,2026-07-23,desktop,yes,yes
+S121,25-34,Bangladesh,2026-07-09,desktop,yes,yes
+S122,unknown,India,2026-07-31,mobile,no,no
+S123,18-24,Kenya,2026-06-29,unknown,no,no
+S124,18-24,India,2026-07-08,mobile,yes,yes
+S125,18-24,Kenya,2026-06-27,mobile,no,no
+S126,25-34,India,2026-07-25,desktop,no,no
+S127,18-24,Bangladesh,2026-07-21,mobile,no,no
+S128,18-24,India,2026-07-26,desktop,yes,yes
+S129,unknown,India,2026-07-01,desktop,no,no
+S130,25-34,Bangladesh,2026-07-19,tablet,no,no
+S131,18-24,Sri Lanka,2026-06-22,tablet,no,yes
+S132,45+,Bangladesh,2026-06-29,mobile,yes,yes
+S133,25-34,India,2026-07-17,mobile,no,no
+S134,18-24,India,2026-06-05,desktop,no,no
+S135,25-34,India,2026-07-14,tablet,no,no
+S136,18-24,India,2026-06-01,mobile,yes,yes
+S137,45+,UAE,2026-07-06,mobile,yes,yes
+S138,25-34,UAE,2026-06-30,mobile,no,no
+S139,35-44,Bangladesh,2026-06-29,mobile,no,no
+S140,18-24,Sri Lanka,2026-07-01,desktop,no,no
+S141,25-34,UAE,2026-07-01,mobile,no,no
+S142,25-34,Bangladesh,2026-06-25,desktop,no,no
+S143,45+,India,2026-06-28,desktop,no,no
+S144,25-34,India,2026-07-05,desktop,no,no
+S145,25-34,UAE,2026-07-17,mobile,no,no
+S146,18-24,Sri Lanka,2026-07-04,unknown,no,no
+S147,18-24,India,2026-07-10,desktop,no,no
+S148,25-34,India,2026-07-22,desktop,no,no
+S149,18-24,UAE,2026-07-31,mobile,no,no
+S150,18-24,India,2026-06-07,desktop,no,no
+S151,35-44,India,2026-07-14,mobile,yes,yes
+S152,35-44,Sri Lanka,2026-06-14,desktop,no,no
+S153,18-24,UAE,2026-06-13,mobile,no,no
+S154,25-34,India,2026-07-19,mobile,yes,yes
+S155,18-24,Sri Lanka,2026-06-05,mobile,no,no
+S156,25-34,India,2026-07-22,mobile,yes,yes
+S157,18-24,Sri Lanka,2026-07-18,mobile,yes,yes
+S158,25-34,India,2026-07-31,mobile,no,no
+S159,25-34,India,2026-07-11,mobile,no,no
+S160,25-34,India,2026-07-24,desktop,no,no
+S161,18-24,India,2026-06-08,unknown,no,yes
+S162,35-44,Sri Lanka,2026-07-25,unknown,yes,yes
+S163,18-24,India,2026-06-10,desktop,no,no
+S164,18-24,India,2026-06-20,mobile,no,yes
+S165,25-34,India,2026-06-08,mobile,no,no
+S166,18-24,UAE,2026-06-25,desktop,no,no
+S167,35-44,Bangladesh,2026-07-16,desktop,no,no
+S168,35-44,Kenya,2026-06-17,mobile,no,no
+S169,18-24,India,2026-07-21,desktop,no,no
+S170,45+,India,2026-07-07,mobile,no,no
+S171,18-24,India,2026-07-09,mobile,yes,yes
+S172,25-34,India,2026-07-28,desktop,yes,yes
+S173,18-24,Kenya,2026-06-27,unknown,no,no
+S174,45+,UAE,2026-06-22,desktop,yes,yes
+S175,18-24,India,2026-07-31,mobile,yes,yes
+S176,18-24,India,2026-07-04,desktop,no,no
+S177,unknown,Sri Lanka,2026-07-08,mobile,no,no
+S178,45+,India,2026-06-19,mobile,no,no
+S179,35-44,India,2026-06-14,mobile,no,no
+S180,25-34,India,2026-06-11,mobile,no,no
+S181,35-44,India,2026-06-14,desktop,no,no
+S182,35-44,India,2026-06-12,mobile,yes,no
+S183,25-34,India,2026-07-16,mobile,no,no
+S184,18-24,India,2026-06-04,mobile,no,yes
+S185,35-44,UAE,2026-07-09,mobile,no,no
+S186,25-34,India,2026-07-28,desktop,no,no
+S187,18-24,India,2026-07-17,mobile,no,no
+S188,18-24,Kenya,2026-06-25,tablet,no,no
+S189,25-34,Bangladesh,2026-06-04,mobile,no,no
+S190,18-24,India,2026-07-21,desktop,yes,yes
+S191,45+,India,2026-06-01,mobile,yes,yes
+S192,18-24,Sri Lanka,2026-07-12,mobile,no,no
+S193,18-24,India,2026-07-11,unknown,no,no
+S194,35-44,India,2026-06-12,tablet,no,no
+S195,18-24,Sri Lanka,2026-07-16,desktop,yes,yes
+S196,18-24,India,2026-06-11,mobile,yes,no
+S197,25-34,UAE,2026-06-14,mobile,no,no
+S198,35-44,India,2026-07-20,desktop,no,no
+S199,18-24,UAE,2026-07-30,mobile,no,no
+S200,18-24,India,2026-06-17,desktop,no,no
+S201,35-44,India,2026-07-27,desktop,no,no
+S202,45+,India,2026-07-26,desktop,yes,no
+S203,25-34,India,2026-07-17,desktop,no,no
+S204,18-24,Sri Lanka,2026-06-09,desktop,no,no
+S205,18-24,India,2026-06-19,mobile,no,no
+S206,18-24,India,2026-07-12,mobile,yes,no
+S207,18-24,Bangladesh,2026-07-31,desktop,no,no
+S208,25-34,Bangladesh,2026-07-20,mobile,yes,yes
+S209,18-24,India,2026-06-26,mobile,no,no
+S210,25-34,India,2026-06-15,mobile,no,no
+S211,25-34,Kenya,2026-07-29,desktop,yes,yes
+S212,25-34,UAE,2026-06-17,desktop,no,no
+S213,18-24,Bangladesh,2026-06-21,desktop,no,no
+S214,35-44,Sri Lanka,2026-07-29,mobile,no,no
+S215,25-34,Bangladesh,2026-07-05,mobile,yes,yes
+S216,25-34,India,2026-06-17,mobile,no,no
+S217,18-24,India,2026-06-01,mobile,no,yes
+S218,18-24,India,2026-06-27,desktop,no,no
+S219,45+,UAE,2026-07-31,desktop,yes,yes
+S220,18-24,Kenya,2026-06-27,mobile,no,no
+S221,18-24,India,2026-07-13,mobile,no,no
+S222,25-34,India,2026-06-16,mobile,yes,yes
+S223,25-34,India,2026-07-18,desktop,no,yes
+S224,45+,Kenya,2026-07-18,desktop,no,no
+S225,18-24,India,2026-07-08,mobile,no,no
+S226,45+,India,2026-07-18,desktop,no,no
+S227,18-24,India,2026-07-06,mobile,yes,yes
+S228,25-34,India,2026-06-24,mobile,no,no
+S229,25-34,India,2026-07-16,tablet,yes,yes
+S230,18-24,India,2026-07-21,mobile,no,no
+S231,18-24,India,2026-07-22,mobile,no,no
+S232,18-24,India,2026-06-13,desktop,no,no
+S233,45+,India,2026-07-12,mobile,no,no
+S234,25-34,India,2026-06-01,desktop,no,no
+S235,45+,India,2026-07-05,mobile,yes,no
+S236,35-44,UAE,2026-07-05,mobile,yes,yes
+S237,25-34,India,2026-06-23,mobile,no,no
+S238,35-44,India,2026-07-31,mobile,no,no
+S239,unknown,India,2026-07-24,mobile,no,no
+S240,18-24,India,2026-06-03,mobile,no,no
+S241,35-44,India,2026-06-13,desktop,no,no
+S242,35-44,India,2026-06-13,mobile,no,no
+S243,18-24,Sri Lanka,2026-07-25,mobile,yes,yes
+S244,25-34,India,2026-07-02,unknown,yes,yes
+S245,25-34,India,2026-07-15,mobile,no,no
+S246,35-44,India,2026-07-20,mobile,yes,no
+S247,25-34,India,2026-07-17,desktop,no,no
+S248,18-24,India,2026-06-06,mobile,no,no
+S249,18-24,Bangladesh,2026-06-09,desktop,yes,yes
+S250,18-24,Bangladesh,2026-06-25,tablet,no,no
+S251,25-34,India,2026-06-21,mobile,no,no
+S252,35-44,India,2026-07-16,mobile,no,no
+S253,25-34,India,2026-06-10,mobile,no,no
+S254,18-24,India,2026-06-23,desktop,no,no
+S255,18-24,UAE,2026-06-15,mobile,no,no
+S256,25-34,India,2026-06-12,desktop,no,no
+S257,35-44,India,2026-06-11,desktop,no,no
+S258,18-24,Kenya,2026-06-12,desktop,no,no
+S259,18-24,India,2026-07-05,mobile,no,no
+S260,25-34,India,2026-06-26,tablet,no,no
+S261,18-24,UAE,2026-06-27,mobile,no,no
+S262,35-44,India,2026-06-30,mobile,no,no
+S263,18-24,India,2026-07-16,mobile,yes,yes
+S264,18-24,India,2026-07-23,tablet,no,no
+S265,45+,Sri Lanka,2026-07-03,desktop,no,no
+S266,18-24,India,2026-07-10,desktop,no,no
+S267,18-24,India,2026-07-16,mobile,yes,yes
+S268,18-24,India,2026-07-13,tablet,no,no
+S269,18-24,India,2026-06-09,mobile,yes,yes
+S270,18-24,UAE,2026-07-30,mobile,no,no
+S271,18-24,India,2026-06-11,tablet,no,no
+S272,18-24,India,2026-06-26,mobile,yes,yes
+S273,18-24,India,2026-07-10,mobile,no,no
+S274,25-34,Bangladesh,2026-06-25,desktop,no,no
+S275,25-34,India,2026-06-15,mobile,yes,no
+S276,18-24,Sri Lanka,2026-07-27,mobile,no,no
+S277,18-24,UAE,2026-06-05,mobile,yes,yes
+S278,25-34,India,2026-06-15,mobile,no,no
+S279,35-44,Bangladesh,2026-07-31,desktop,no,no
+S280,35-44,Sri Lanka,2026-07-15,desktop,no,no
+S281,18-24,India,2026-06-06,mobile,no,no
+S282,18-24,Sri Lanka,2026-07-17,mobile,yes,yes
+S283,18-24,India,2026-07-30,mobile,no,no
+S284,18-24,UAE,2026-06-06,desktop,no,no
+S285,25-34,Kenya,2026-06-26,unknown,no,no
+S286,18-24,India,2026-06-29,tablet,no,no
+S287,18-24,Bangladesh,2026-06-08,mobile,yes,yes
+S288,18-24,India,2026-06-13,mobile,no,no
+S289,25-34,Bangladesh,2026-06-11,mobile,no,no
+S290,18-24,UAE,2026-06-12,desktop,no,no
+S291,35-44,India,2026-06-25,mobile,no,no
+S292,18-24,India,2026-06-29,desktop,no,no
+S293,45+,India,2026-06-15,desktop,yes,yes
+S294,18-24,India,2026-06-18,mobile,no,no
+S295,35-44,India,2026-06-12,mobile,no,no
+S296,35-44,India,2026-07-19,unknown,yes,yes
+S297,45+,India,2026-06-13,mobile,no,no
+S298,35-44,India,2026-07-26,mobile,no,no
+S299,35-44,UAE,2026-07-03,desktop,yes,yes
+S300,25-34,UAE,2026-07-19,mobile,yes,yes
+S301,35-44,UAE,2026-07-09,mobile,no,no
+S302,18-24,India,2026-06-17,unknown,yes,yes
+S303,25-34,Sri Lanka,2026-07-07,desktop,yes,yes
+S304,25-34,India,2026-06-17,mobile,no,no
+S305,35-44,India,2026-06-08,desktop,yes,yes
+S306,25-34,India,2026-06-16,tablet,no,no
+S307,18-24,UAE,2026-06-17,desktop,no,no
+S308,25-34,India,2026-06-09,desktop,yes,yes
+S309,18-24,India,2026-06-02,mobile,no,no
+S310,18-24,Kenya,2026-07-28,tablet,yes,yes
+S311,25-34,India,2026-07-02,mobile,no,no
+S312,18-24,India,2026-06-25,tablet,no,no
+S313,18-24,Kenya,2026-07-27,desktop,no,no
+S314,18-24,India,2026-06-14,mobile,yes,yes
+S315,18-24,India,2026-06-25,mobile,no,no
+S316,18-24,Sri Lanka,2026-07-22,desktop,no,no
+S317,18-24,Sri Lanka,2026-07-09,desktop,no,no
+S318,unknown,India,2026-06-25,mobile,no,no
+S319,18-24,UAE,2026-06-16,desktop,no,no
+S320,45+,India,2026-06-03,desktop,no,no
+S321,35-44,India,2026-06-06,mobile,no,no
+S322,25-34,India,2026-06-10,mobile,no,no
+S323,18-24,India,2026-07-18,mobile,no,no
+S324,25-34,UAE,2026-07-09,desktop,no,no
+S325,35-44,Bangladesh,2026-06-27,mobile,no,no
+S326,25-34,India,2026-07-18,desktop,no,no
+S327,35-44,India,2026-06-10,mobile,no,no
+S328,25-34,India,2026-06-13,desktop,yes,yes
+S329,25-34,Sri Lanka,2026-06-24,mobile,yes,yes
+S330,18-24,India,2026-07-26,mobile,no,no
+S331,25-34,UAE,2026-07-08,desktop,no,no
+S332,18-24,India,2026-07-22,mobile,no,no
+S333,25-34,India,2026-06-16,mobile,no,no
+S334,35-44,UAE,2026-07-22,tablet,no,yes
+S335,18-24,UAE,2026-06-05,tablet,no,no
+S336,25-34,India,2026-06-14,desktop,no,yes
+S337,18-24,Bangladesh,2026-07-02,mobile,no,no
+S338,25-34,Kenya,2026-06-04,desktop,no,no
+S339,18-24,India,2026-07-23,desktop,no,no
+S340,45+,India,2026-07-23,mobile,yes,yes
+S341,18-24,India,2026-07-04,mobile,no,no
+S342,45+,Bangladesh,2026-06-19,desktop,no,no
+S343,35-44,India,2026-06-07,mobile,no,no
+S344,25-34,India,2026-07-08,desktop,no,no
+S345,35-44,India,2026-07-03,tablet,no,no
+S346,35-44,Sri Lanka,2026-07-17,desktop,no,yes
+S347,45+,India,2026-07-07,mobile,yes,yes
+S348,18-24,UAE,2026-06-08,mobile,yes,yes
+S349,25-34,India,2026-06-08,mobile,yes,no
+S350,18-24,Kenya,2026-07-18,mobile,no,no
+S351,25-34,India,2026-06-10,desktop,no,no
+S352,18-24,India,2026-07-28,desktop,no,no
+S353,25-34,Sri Lanka,2026-06-07,mobile,no,no
+S354,25-34,Sri Lanka,2026-07-15,mobile,no,no
+S355,25-34,India,2026-07-30,desktop,yes,yes
+S356,25-34,India,2026-06-27,mobile,no,no
+S357,25-34,UAE,2026-06-04,mobile,no,no
+S358,35-44,Sri Lanka,2026-07-24,mobile,no,no
+S359,25-34,India,2026-06-12,desktop,no,no
+S360,25-34,India,2026-07-03,mobile,yes,yes
+S361,45+,UAE,2026-07-31,desktop,no,no
+S362,18-24,UAE,2026-07-16,mobile,no,no
+S363,18-24,Bangladesh,2026-06-03,desktop,no,no
+S364,18-24,India,2026-07-21,mobile,no,no
+S365,25-34,India,2026-06-10,mobile,no,no
+S366,18-24,Sri Lanka,2026-07-16,mobile,no,no
+S367,35-44,Sri Lanka,2026-07-08,mobile,no,no
+S368,25-34,Bangladesh,2026-06-18,mobile,no,no
+S369,18-24,India,2026-06-26,mobile,no,no
+S370,35-44,India,2026-06-08,mobile,no,no
+S371,25-34,UAE,2026-07-31,mobile,no,no
+S372,18-24,India,2026-06-15,tablet,no,no
+S373,18-24,Kenya,2026-06-19,mobile,no,no
+S374,18-24,India,2026-07-01,desktop,no,no
+S375,18-24,UAE,2026-07-12,tablet,no,no
+S376,18-24,Sri Lanka,2026-07-01,mobile,no,no
+S377,45+,India,2026-07-01,desktop,no,no
+S378,18-24,India,2026-07-06,desktop,yes,yes
+S379,unknown,UAE,2026-07-23,desktop,yes,yes
+S380,25-34,India,2026-06-25,mobile,no,no
+S381,25-34,India,2026-07-21,mobile,no,no
+S382,45+,UAE,2026-07-19,mobile,no,no
+S383,35-44,Kenya,2026-07-29,mobile,yes,yes
+S384,25-34,India,2026-07-26,tablet,no,no
+S385,18-24,India,2026-07-19,unknown,no,no
+S386,unknown,India,2026-06-16,mobile,no,no
+S387,25-34,India,2026-07-18,desktop,yes,yes
+S388,45+,India,2026-07-15,mobile,no,no
+S389,18-24,India,2026-06-18,tablet,no,no
+S390,unknown,UAE,2026-07-12,mobile,yes,yes
+S391,25-34,India,2026-06-16,tablet,no,no
+S392,18-24,Kenya,2026-07-02,desktop,no,no
+S393,25-34,India,2026-07-19,mobile,yes,yes
+S394,25-34,India,2026-06-12,mobile,no,no
+S395,18-24,Bangladesh,2026-06-21,desktop,no,no
+S396,25-34,Sri Lanka,2026-07-19,mobile,no,no
+S397,35-44,India,2026-06-28,mobile,yes,yes
+S398,18-24,India,2026-07-29,tablet,no,no
+S399,unknown,India,2026-06-01,desktop,no,no
+S400,18-24,India,2026-07-15,mobile,yes,yes
+S401,18-24,India,2026-07-20,mobile,no,no
+S402,35-44,India,2026-07-26,mobile,no,no
+S403,35-44,India,2026-06-10,tablet,no,no
+S404,18-24,India,2026-07-31,mobile,no,yes
+S405,45+,Kenya,2026-06-24,mobile,no,yes
+S406,35-44,UAE,2026-06-22,mobile,yes,yes
+S407,18-24,India,2026-06-22,tablet,no,no
+S408,35-44,India,2026-07-09,mobile,no,no
+S409,18-24,India,2026-07-11,desktop,no,no
+S410,unknown,India,2026-06-29,desktop,no,no
+S411,25-34,Bangladesh,2026-06-05,desktop,no,no
+S412,25-34,Sri Lanka,2026-07-31,tablet,no,no
+S413,18-24,Sri Lanka,2026-06-14,desktop,no,no
+S414,35-44,Kenya,2026-06-06,tablet,no,no
+S415,18-24,Kenya,2026-07-07,mobile,no,no
+S416,18-24,Kenya,2026-06-26,desktop,no,no
+S417,18-24,India,2026-07-08,mobile,no,no
+S418,35-44,India,2026-07-24,mobile,no,no
+S419,18-24,India,2026-06-06,desktop,no,no
+S420,35-44,India,2026-06-18,tablet,no,yes
+S421,25-34,India,2026-07-02,desktop,no,no
+S422,18-24,Bangladesh,2026-07-19,mobile,yes,yes
+S423,18-24,UAE,2026-07-07,mobile,yes,yes
+S424,18-24,India,2026-06-24,mobile,no,no
+S425,25-34,India,2026-07-08,mobile,yes,yes
+S426,35-44,India,2026-07-30,mobile,no,no
+S427,18-24,India,2026-06-30,mobile,no,no
+S428,35-44,Sri Lanka,2026-07-24,mobile,no,no
+S429,18-24,India,2026-07-18,desktop,no,no
+S430,35-44,UAE,2026-06-19,mobile,no,no
+S431,45+,India,2026-06-16,tablet,no,yes
+S432,35-44,India,2026-07-17,desktop,no,no
+S433,25-34,India,2026-06-13,mobile,yes,yes
+S434,35-44,Bangladesh,2026-06-21,mobile,no,no
+S435,18-24,Bangladesh,2026-06-15,mobile,no,no
+S436,18-24,India,2026-07-07,tablet,yes,yes
+S437,18-24,Kenya,2026-06-18,mobile,no,no
+S438,25-34,India,2026-07-11,mobile,no,no
+S439,25-34,Sri Lanka,2026-07-28,tablet,no,no
+S440,25-34,India,2026-07-21,tablet,no,no
+S441,35-44,India,2026-07-28,mobile,no,no
+S442,18-24,Bangladesh,2026-06-02,mobile,yes,no
+S443,25-34,India,2026-06-28,mobile,no,no
+S444,18-24,India,2026-06-14,mobile,no,no
+S445,18-24,India,2026-07-26,mobile,no,yes
+S446,25-34,India,2026-07-14,desktop,no,no
+S447,45+,UAE,2026-06-20,tablet,no,no
+S448,25-34,Sri Lanka,2026-07-05,mobile,no,no
+S449,18-24,Sri Lanka,2026-07-07,desktop,no,no
+S450,25-34,India,2026-07-01,mobile,no,no
+S451,18-24,India,2026-06-29,desktop,no,no
+S452,35-44,India,2026-06-04,desktop,no,no
+S453,25-34,India,2026-06-28,desktop,no,no
+S454,18-24,India,2026-06-22,tablet,no,no
+S455,18-24,Kenya,2026-07-20,mobile,no,no
+S456,18-24,Sri Lanka,2026-07-23,mobile,yes,yes
+S457,45+,Bangladesh,2026-07-16,mobile,yes,yes
+S458,25-34,India,2026-06-02,mobile,no,no
+S459,35-44,India,2026-07-22,tablet,yes,yes
+S460,25-34,India,2026-06-25,mobile,yes,yes
+S461,25-34,India,2026-06-26,desktop,no,no
+S462,18-24,India,2026-07-28,mobile,yes,yes
+S463,45+,India,2026-07-23,mobile,no,no
+S464,18-24,India,2026-06-04,mobile,no,no
+S465,unknown,Kenya,2026-06-22,desktop,no,no
+S466,25-34,India,2026-07-16,desktop,no,no
+S467,25-34,Kenya,2026-07-03,mobile,no,no
+S468,45+,India,2026-06-16,mobile,no,no
+S469,18-24,India,2026-07-03,desktop,no,no
+S470,25-34,India,2026-07-23,mobile,yes,yes
+S471,18-24,India,2026-06-14,tablet,no,no
+S472,25-34,India,2026-07-16,mobile,no,no
+S473,18-24,India,2026-07-15,mobile,no,no
+S474,18-24,Sri Lanka,2026-07-25,mobile,no,no
+S475,unknown,India,2026-06-19,mobile,no,no
+S476,18-24,UAE,2026-06-14,mobile,no,no
+S477,18-24,India,2026-07-04,mobile,no,no
+S478,25-34,India,2026-07-03,tablet,no,no
+S479,25-34,India,2026-06-25,mobile,no,no
+S480,18-24,India,2026-07-18,mobile,no,no
+S481,18-24,Kenya,2026-07-19,mobile,no,no
+S482,18-24,Bangladesh,2026-06-15,mobile,yes,yes
+S483,25-34,UAE,2026-07-19,desktop,no,no
+S484,18-24,India,2026-06-15,mobile,no,yes
+S485,18-24,India,2026-06-25,desktop,no,no
+S486,18-24,Sri Lanka,2026-06-02,mobile,no,no
+S487,25-34,India,2026-06-21,tablet,no,no
+S488,18-24,India,2026-07-29,mobile,no,no
+S489,25-34,India,2026-06-27,desktop,no,no
+S490,25-34,Bangladesh,2026-07-14,mobile,no,no
+S491,unknown,UAE,2026-06-07,mobile,no,no
+S492,25-34,Bangladesh,2026-07-09,desktop,no,no
+S493,25-34,Bangladesh,2026-06-23,desktop,yes,yes
+S494,18-24,India,2026-07-16,desktop,no,no
+S495,35-44,Sri Lanka,2026-07-27,mobile,no,no
+S496,25-34,India,2026-07-03,desktop,no,no
+S497,18-24,UAE,2026-06-07,desktop,no,no
+S498,25-34,India,2026-06-30,desktop,yes,yes
+S499,18-24,Kenya,2026-06-08,mobile,no,no
+S500,unknown,India,2026-06-28,desktop,no,no
