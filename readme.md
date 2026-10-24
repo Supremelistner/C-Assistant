@@ -19,7 +19,8 @@ A Streamlit app (`app.py`) demonstrates all of it live, including a raw JSON out
 ```bash
 python -m venv .venv
 .venv\Scripts\activate              # Windows   (macOS/Linux: source .venv/bin/activate)
-pip install -r requirements.txt
+python -m pip install --upgrade pip # an old pip can try to build protobuf from source and fail
+pip install -r requirements.txt     # versions are pinned; tested with Python 3.10
 copy .env.example .env              # macOS/Linux: cp .env.example .env
 ```
 

@@ -1,15 +1,18 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-scipy
-joblib
-pydantic
-python-dotenv
-langchain-core
-langchain-openai
-langgraph
-streamlit
-ipykernel
-nbconvert
+# Tested with Python 3.10 on Windows. Upgrade pip first:  python -m pip install --upgrade pip
+pandas==2.3.3
+numpy==2.2.6
+matplotlib==3.10.9
+seaborn==0.13.2
+scikit-learn==1.7.2
+scipy==1.15.3
+joblib==1.6.0
+pydantic==2.14.1
+python-dotenv==1.2.4
+langchain-core==1.7.0
+langchain-openai==1.7.2
+langgraph==1.2.16
+streamlit==1.65.0
+protobuf==7.36.2        # pulled in by streamlit; pinned so pip uses a ready-made wheel instead of building it
+pyarrow==25.0.1         # pulled in by streamlit; same reason
+ipykernel==7.3.0
+nbconvert==7.17.2
