@@ -246,6 +246,31 @@ and only **38%** when near-copies are held out together (chance is 33%).
 - **Monthly volume** for costing: 50,000 students × 1.45 explanations each (the ratio in the data) = 72,500 gradings.
 - **Prices** were checked on 22–23 Oct 2026; the sources are cited in the memo.
 
+## 6. What I will improve next time
+
+**In the results**
+1. **More and better labels.** At least 200 teacher-labelled explanations instead of 60, including Tamil and Kannada
+   (none were tested) and more borderline `partial` / `understood` cases. Every test would split by answer template,
+   so near-copies never sit on both sides.
+2. **Finish what's pending.** Evaluate the evidence check on the full set, and run Gemma on all 60 labels rather than
+   10, so the fallback model is properly tested.
+3. **A fairer dropout threshold.** Choose it on a separate validation split, check calibration, and get real dropout
+   dates. That would show whether predicting at day 7 reaches students who have already gone quiet by day 14 (51 of 125).
+4. **Measure the outcome that matters.** A/B test whether nudges to flagged students actually reduce dropout. ROC-AUC
+   is only a stand-in for that.
+5. **A human in the loop.** Review `wrong` verdicts and flagged injection attempts before a student sees them.
+
+**In how I work**
+6. **Plan API quotas and budget before the first run.** Free tiers cost hours here: Gemini allows 20 requests a day,
+   and Groq 200,000 tokens a day (and counts the *requested* reply length). A few dollars on paid tiers would have
+   avoided the partial runs.
+7. **Make the setup reproducible from day one.** Pin package versions and test a fresh install early, instead of
+   fixing `pip install` problems at the end.
+8. **Build it simple from the start.** Use a cache keyed on the exact prompt, a mock model and small single-purpose
+   files from the beginning, instead of simplifying a 662-line grader late.
+9. **Review real outputs earlier.** Reading the 5 at-risk outputs found the loose key-point credit, which led to the
+   evidence check. Doing that review on day one would have left time to evaluate the fix fully.
+
 ---
 
 ## How this was built (AI-assistance disclosure)
